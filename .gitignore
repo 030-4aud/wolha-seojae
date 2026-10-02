@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 편집기
+.vscode/
+.idea/
+*.swp
+
+# 백업·내보낸 데이터 (개인 글이 담길 수 있어 올리지 않음)
+*.bak
+wolha*-backup*.json
+*-export*.json
